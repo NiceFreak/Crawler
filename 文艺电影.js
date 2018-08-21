@@ -37,7 +37,7 @@ var movieFromDiv = function(div) {
 }
 
 var moviesFromUrl = function(url) {
-    var e = cheerio.load(body)
+    // var e = cheerio.load(body)
     // 缓存数据
     var body = cached_url(url)
     var e = cheerio.load(body)

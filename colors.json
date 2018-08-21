@@ -1,0 +1,378 @@
+[
+  {
+    "name": "石青",
+    "tcolor": "#1685a9"
+  },
+  {
+    "name": "靛青",
+    "tcolor": "#177cb0"
+  },
+  {
+    "name": "靛蓝",
+    "tcolor": "#065279"
+  },
+  {
+    "name": "花青",
+    "tcolor": "#003472"
+  },
+  {
+    "name": "宝蓝",
+    "tcolor": "#4b5cc4"
+  },
+  {
+    "name": "蓝灰色",
+    "tcolor": "#a1afc9"
+  },
+  {
+    "name": "藏青",
+    "tcolor": "#2e4e7e"
+  },
+  {
+    "name": "藏蓝",
+    "tcolor": "#3b2e7e"
+  },
+  {
+    "name": "黛",
+    "tcolor": "#4a4266"
+  },
+  {
+    "name": "黛绿",
+    "tcolor": "#426666"
+  },
+  {
+    "name": "黛蓝",
+    "tcolor": "#425066"
+  },
+  {
+    "name": "黛紫",
+    "tcolor": "#574266"
+  },
+  {
+    "name": "紫色",
+    "tcolor": "#8d4bbb"
+  },
+  {
+    "name": "紫酱",
+    "tcolor": "#815463"
+  },
+  {
+    "name": "酱紫",
+    "tcolor": "#815476"
+  },
+  {
+    "name": "紫檀",
+    "tcolor": "#4c221b"
+  },
+  {
+    "name": "绀青",
+    "tcolor": "#003371"
+  },
+  {
+    "name": "紫棠",
+    "tcolor": "#56004f"
+  },
+  {
+    "name": "青莲",
+    "tcolor": "#801dae"
+  },
+  {
+    "name": "群青",
+    "tcolor": "#4c8dae"
+  },
+  {
+    "name": "朱砂",
+    "tcolor": "#ff461f"
+  },
+  {
+    "name": "火红",
+    "tcolor": "#ff2d51"
+  },
+  {
+    "name": "朱膘",
+    "tcolor": "#f36838"
+  },
+  {
+    "name": "妃色",
+    "tcolor": "#ed5736"
+  },
+  {
+    "name": "洋红",
+    "tcolor": "#ff4777"
+  },
+  {
+    "name": "品红",
+    "tcolor": "#f00056"
+  },
+  {
+    "name": "粉红",
+    "tcolor": "#ffb3a7"
+  },
+  {
+    "name": "桃红",
+    "tcolor": "#f47983"
+  },
+  {
+    "name": "海棠红",
+    "tcolor": "#db5a6b"
+  },
+  {
+    "name": "樱桃色",
+    "tcolor": "#c93756"
+  },
+  {
+    "name": "酡颜",
+    "tcolor": "#f9906f"
+  },
+  {
+    "name": "银红",
+    "tcolor": "#f05654"
+  },
+  {
+    "name": "大红",
+    "tcolor": "#ff2121"
+  },
+  {
+    "name": "石榴红",
+    "tcolor": "#f20c00"
+  },
+  {
+    "name": "绛紫",
+    "tcolor": "#8c4356"
+  },
+  {
+    "name": "绯红",
+    "tcolor": "#c83c23"
+  },
+  {
+    "name": "胭脂",
+    "tcolor": "#9d2933"
+  },
+  {
+    "name": "朱红",
+    "tcolor": "#ff4c00"
+  },
+  {
+    "name": "丹",
+    "tcolor": "#ff4e20"
+  },
+  {
+    "name": "彤",
+    "tcolor": "#f35336"
+  },
+  {
+    "name": "酡红",
+    "tcolor": "#dc3023"
+  },
+  {
+    "name": "炎",
+    "tcolor": "#ff3300"
+  },
+  {
+    "name": "茜色",
+    "tcolor": "#cb3a56"
+  },
+  {
+    "name": "绾",
+    "tcolor": "#a98175"
+  },
+  {
+    "name": "檀",
+    "tcolor": "#b36d61"
+  },
+  {
+    "name": "嫣红",
+    "tcolor": "#ef7a82"
+  },
+  {
+    "name": "洋红",
+    "tcolor": "#ff0097"
+  },
+  {
+    "name": "枣红",
+    "tcolor": "#c32136"
+  },
+  {
+    "name": "殷红",
+    "tcolor": "#be002f"
+  },
+  {
+    "name": "赫赤",
+    "tcolor": "#c91f37"
+  },
+  {
+    "name": "银朱",
+    "tcolor": "#bf242a"
+  },
+  {
+    "name": "赤",
+    "tcolor": "#c3272b"
+  },
+  {
+    "name": "胭脂",
+    "tcolor": "#9d2933"
+  },
+  {
+    "name": "栗色",
+    "tcolor": "#60281e"
+  },
+  {
+    "name": "玄色",
+    "tcolor": "#622a1d"
+  },
+  {
+    "name": "石绿",
+    "tcolor": "#16a951"
+  },
+  {
+    "name": "松柏绿",
+    "tcolor": "#21a675"
+  },
+  {
+    "name": "松花绿",
+    "tcolor": "#057748"
+  },
+  {
+    "name": "绿沈",
+    "tcolor": "#0c8918"
+  },
+  {
+    "name": "墨灰",
+    "tcolor": "#758a99"
+  },
+  {
+    "name": "墨色",
+    "tcolor": "#50616d"
+  },
+  {
+    "name": "鸦青",
+    "tcolor": "#424c50"
+  },
+  {
+    "name": "黯",
+    "tcolor": "#41555d"
+  },
+  {
+    "name": "橙黄",
+    "tcolor": "#ffa400"
+  },
+  {
+    "name": "橙色",
+    "tcolor": "#fa8c35"
+  },
+  {
+    "name": "黄栌",
+    "tcolor": "#e29c45"
+  },
+  {
+    "name": "昏黄",
+    "tcolor": "#c89b40"
+  },
+  {
+    "name": "棕黄",
+    "tcolor": "#ae7000"
+  },
+  {
+    "name": "琥珀",
+    "tcolor": "#ca6924"
+  },
+  {
+    "name": "棕色",
+    "tcolor": "#b25d25"
+  },
+  {
+    "name": "茶色",
+    "tcolor": "#b35c44"
+  },
+  {
+    "name": "棕红",
+    "tcolor": "#9b4400"
+  },
+  {
+    "name": "赭",
+    "tcolor": "#9c5333"
+  },
+  {
+    "name": "驼色",
+    "tcolor": "#a88462"
+  },
+  {
+    "name": "秋色",
+    "tcolor": "#896c39"
+  },
+  {
+    "name": "棕绿",
+    "tcolor": "#827100"
+  },
+  {
+    "name": "褐色",
+    "tcolor": "#6e511e"
+  },
+  {
+    "name": "棕黑",
+    "tcolor": "#7c4b00"
+  },
+  {
+    "name": "赭色",
+    "tcolor": "#955539"
+  },
+  {
+    "name": "赭石",
+    "tcolor": "#845a33"
+  },
+  {
+    "name": "灰色",
+    "tcolor": "#808080"
+  },
+  {
+    "name": "苍色",
+    "tcolor": "#75878a"
+  },
+  {
+    "name": "水色",
+    "tcolor": "#88ada6"
+  },
+  {
+    "name": "黝",
+    "tcolor": "#6b6882"
+  },
+  {
+    "name": "乌色",
+    "tcolor": "#725e82"
+  },
+  {
+    "name": "玄青",
+    "tcolor": "#3d3b4f"
+  },
+  {
+    "name": "乌黑",
+    "tcolor": "#392f41"
+  },
+  {
+    "name": "黎",
+    "tcolor": "#75664d"
+  },
+  {
+    "name": "黧",
+    "tcolor": "#5d513c"
+  },
+  {
+    "name": "黝黑",
+    "tcolor": "#665757"
+  },
+  {
+    "name": "缁色",
+    "tcolor": "#493131"
+  },
+  {
+    "name": "煤黑",
+    "tcolor": "#312520"
+  },
+  {
+    "name": "漆黑",
+    "tcolor": "#161823"
+  },
+  {
+    "name": "黑色",
+    "tcolor": "#000000"
+  }
+]
